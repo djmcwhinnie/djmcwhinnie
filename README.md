@@ -1,4 +1,4 @@
-![dmcwhinnie logo](/assets/git-hub_hero-img.png)
+![dmcwhinnie logo](assets/git-hub_hero-img.png)
 
 ### Hello!
 
