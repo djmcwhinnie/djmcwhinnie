@@ -10,13 +10,13 @@ Flash was still a thing, external stylesheets were the new thing and Macromedia 
 
 I keep my passion for design alive with an interest in UX/UI, treating it as a bridge connecting to front-end development.
 
-## 🔭 I’m currently working on
+## 👨‍💻 I’m currently working on
 
 - Getting a re-design of my personal site finished and online!
 - Couple of side projects to push my JavaScript learning.
 - Updating all of my developer content and spaces to try and engage with the community more.
 
-## 🌱 I’m currently learning
+## 🎓 I’m currently learning
 
 - JavaScript and some of its frameworks and flavours e.g. React, ES6.
 - UX/UI
