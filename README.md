@@ -1,6 +1,6 @@
 ![dmcwhinnie logo](https://github.com/djmcwhinnie/djmcwhinnie/blob/master/assets/git-hub_hero-img.png)
 
-### Hello!
+# Hello!
 
 Welcome to my GitHub ReadMe file, a place to find a quick summary about me and what kind of development work I'm currently looking into.
 
